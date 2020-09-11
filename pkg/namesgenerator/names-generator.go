@@ -134,6 +134,9 @@ var (
 
 		// Maria Gaetana Agnesi - Italian mathematician, philosopher, theologian and humanitarian. She was the first woman to write a mathematics handbook and the first woman appointed as a Mathematics Professor at a University. https://en.wikipedia.org/wiki/Maria_Gaetana_Agnesi
 		"agnesi",
+		
+		// Virginia Apgar, an American obstetrical anesthesiologist and inventor of the Apgar Score, a way to quickly assess the health of a newborn child - https://en.wikipedia.org/wiki/Virginia_Apgar
+		"apgar",
 
 		// Archimedes was a physicist, engineer and mathematician who invented too many things to list them here. https://en.wikipedia.org/wiki/Archimedes
 		"archimedes",
@@ -143,6 +146,9 @@ var (
 
 		// Aryabhata - Ancient Indian mathematician-astronomer during 476-550 CE https://en.wikipedia.org/wiki/Aryabhata
 		"aryabhata",
+		
+		// John Vincent Atanasoff, an American professor at Iowa State, credited with inventing the first electronic digital computer - https://en.wikipedia.org/wiki/John_Vincent_Atanasoff
+		"atanasoff",
 
 		// Wanda Austin - Wanda Austin is the President and CEO of The Aerospace Corporation, a leading architect for the US security space programs. https://en.wikipedia.org/wiki/Wanda_Austin
 		"austin",
@@ -652,6 +658,9 @@ var (
 
 		// Radia Perlman is a software designer and network engineer and most famous for her invention of the spanning-tree protocol (STP). https://en.wikipedia.org/wiki/Radia_Perlman
 		"perlman",
+		
+		// Carl Adam Petri, German mathematician and computer scientist, inventor of Petri Nets, whose work greatly advanced parallel programming - https://en.wikipedia.org/wiki/Carl_Adam_Petri
+		"petri",
 
 		// Rob Pike was a key contributor to Unix, Plan 9, the X graphic system, utf-8, and the Go programming language. https://en.wikipedia.org/wiki/Rob_Pike
 		"pike",
@@ -832,6 +841,9 @@ var (
 
 		// Nikolay Yegorovich Zhukovsky (Russian: Никола́й Его́рович Жуко́вский, January 17 1847 – March 17, 1921) was a Russian scientist, mathematician and engineer, and a founding father of modern aero- and hydrodynamics. Whereas contemporary scientists scoffed at the idea of human flight, Zhukovsky was the first to undertake the study of airflow. He is often called the Father of Russian Aviation. https://en.wikipedia.org/wiki/Nikolay_Yegorovich_Zhukovsky
 		"zhukovsky",
+		
+		// Konrad Zuse, a German inventor and computer scientist who created the first programmable computer - https://en.wikipedia.org/wiki/Konrad_Zuse
+		"zuse",
 	}
 )
 
